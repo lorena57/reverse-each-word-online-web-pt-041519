@@ -7,4 +7,4 @@ def reverse_each_word(word)
         transform.reverse!
     end
     broken.join(" ")
-end
+ends
